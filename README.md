@@ -25,4 +25,9 @@ Building intuition before jumping into code.
 | # | Topic | Source | Status |
 |---|-------|--------|--------|
 | 01 | Vectors — What Even Are They? | 3Blue1Brown | ✅ Done |
+| 02 | Linear combinations, span, and basis vectors | 3Blue1Brown | ✅ Done |
+
+
+
+ 
 
